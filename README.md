@@ -55,7 +55,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -63,7 +63,12 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vrandima&show_icons=true&locale=en" alt="vrandima" /></p>
 
- <br/><br/><br/>
+<br/><br/><br/>
+<hr/>
+
+![Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+<br/><br/><br/>
 <hr/>
 
 <h3 align="center">
