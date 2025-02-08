@@ -65,7 +65,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrandima&show_icons=true&locale=en" alt="vrandima" /></p>
 
-<br/><br/><br/>
+<br/>
 <hr/>
 
 ![Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
